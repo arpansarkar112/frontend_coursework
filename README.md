@@ -13,6 +13,8 @@ This repository contains all my submissions for the Software Development Skills:
 
 This directory contains the exercise materials built by following the mandatory course tutorial series.
 
+**Live Demos:** * [View on Netlify](https://bucolic-lily-8ee23b.netlify.app/)
+
 ### How to Run the Coursework
 1. Clone this repository to local machine.
 2. Navigate into the `Coursework` directory.
@@ -32,4 +34,4 @@ This directory contains the exercise materials built by following the mandatory 
 ### How to Run the Project
 
 
-### 📹 Project Demonstration Video
+### Project Demonstration Video
