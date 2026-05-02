@@ -1,3 +1,5 @@
+# Name
+Arpan Sarkar
 # Front-End Coursework & Final Project
 
 This repository contains all my submissions for the Software Development Skills: Front-End course. It is divided into two main sections: the tutorial exercise materials and my final project.
