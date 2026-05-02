@@ -31,7 +31,7 @@ This directory contains the exercise materials built by following the mandatory 
 
 This directory contains my final project for the course. It is a responsive website showcasing Manchester City Fan Page.
 
-* **Live Demo:** *[Netlify]([https://super-sunflower-8a5321.netlify.app/])
+* **Live Demo:** *[Netlify](https://super-sunflower-8a5321.netlify.app/)
 * **Project Demonstration Video:** *[Watch the Walkthrough](https://www.youtube.com/watch?v=6spOS_buPqs)
 
 ### How to Run the Project
