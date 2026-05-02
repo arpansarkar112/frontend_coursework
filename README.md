@@ -1,10 +1,10 @@
 # Front-End Coursework & Final Project
 
-This repository contains all my submissions for the Software Development Skills: Front-End course. It is divided into two main sections: the tutorial exercise materials and my final custom project.
+This repository contains all my submissions for the Software Development Skills: Front-End course. It is divided into two main sections: the tutorial exercise materials and my final project.
 
 ## Repository Structure
 * `/Coursework` - Contains the SaaS landing page built following the mandatory tutorial.
-* `/Project` - Contains my custom, independent final project (Work in Progress).
+* `/Project` - Contains my independent final project.
 * `Learning_Diary.docx` - My documented learning process and reflections.
 
 ---
@@ -13,7 +13,7 @@ This repository contains all my submissions for the Software Development Skills:
 
 This directory contains the exercise materials built by following the mandatory course tutorial series.
 
-**Live Demos:** * [View on Netlify](https://bucolic-lily-8ee23b.netlify.app/)
+**Live Demos:** * [Netlify](https://bucolic-lily-8ee23b.netlify.app/)
 
 ### How to Run the Coursework
 1. Clone this repository to local machine.
@@ -29,9 +29,16 @@ This directory contains the exercise materials built by following the mandatory 
 
 ## Part 2: Final Course Project 
 
-*(Details for the final project will be added here as I build it!)*
+This directory contains my final project for the course. It is a responsive website showcasing Manchester City Fan Page.
+
+* **Live Demo:** [Netlify]([https://super-sunflower-8a5321.netlify.app/])
+* **Project Demonstration Video:** [Watch the Walkthrough](Video)
 
 ### How to Run the Project
+1. Clone this repository to local machine.
+2. Navigate into the `Project` directory.
+3. Open the `index.html` file in web browser.
 
-
-### Project Demonstration Video
+### Technologies Used
+* **HTML5 & CSS3:** Semantic HTML, fully responsive design utilizing CSS Flexbox and Grid.
+* **JavaScript:** Used for state management via slideIndex, space management.
